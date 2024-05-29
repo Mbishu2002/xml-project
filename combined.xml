@@ -2,7 +2,7 @@
              xmlns:addr="https://xml-project.orender.com/address"
              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
              xsi:schemaLocation="https://xml-project.orender.com/personal personal.xsd
-             https://xml-project.orender.com/addres address.xsd">
+                                  https://xml-project.orender.com/address address.xsd">
     <per:PersonalInformation>
         <per:Name>John Doe</per:Name>
         <per:Phone>+1234567890</per:Phone>
