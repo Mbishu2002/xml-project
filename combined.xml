@@ -1,0 +1,18 @@
+<Information xmlns:per="https://xml-project.orender.com/personal"
+             xmlns:addr="https://xml-project.orender.com/address"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="https://xml-project.orender.com/personal personal.xsd
+             https://xml-project.orender.com/addres address.xsd">
+    <per:PersonalInformation>
+        <per:Name>John Doe</per:Name>
+        <per:Phone>+1234567890</per:Phone>
+        <per:Email>johndoe@example.com</per:Email>
+    </per:PersonalInformation>
+    <addr:AddressDetails>
+        <addr:Street>123 Main St</addr:Street>
+        <addr:City>Springfield</addr:City>
+        <addr:State>IL</addr:State>
+        <addr:ZipCode>62704</addr:ZipCode>
+        <addr:Country>USA</addr:Country>
+    </addr:AddressDetails>
+</Information>
