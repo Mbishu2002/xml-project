@@ -1,6 +1,6 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-           xmlns:addr="https://xml-project.orender.com/addres"
-           targetNamespace="https://xml-project.orender.com/addres"
+           xmlns:addr="https://xml-project.onrender.com/addres"
+           targetNamespace="https://xml-project.onrender.com/addres"
            elementFormDefault="qualified">
     <xs:element name="AddressDetails">
         <xs:complexType>

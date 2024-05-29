@@ -1,8 +1,8 @@
-<Information xmlns:per="https://xml-project.orender.com/personal"
-             xmlns:addr="https://xml-project.orender.com/address"
+<Information xmlns:per="https://xml-project.onrender.com/personal"
+             xmlns:addr="https://xml-project.onrender.com/address"
              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-             xsi:schemaLocation="https://xml-project.orender.com/personal personal.xsd
-                                  https://xml-project.orender.com/address address.xsd">
+             xsi:schemaLocation="https://xml-project.onrender.com/personal personal.xsd
+                                  https://xml-project.onrender.com/address address.xsd">
     <per:PersonalInformation>
         <per:Name>John Doe</per:Name>
         <per:Phone>+1234567890</per:Phone>

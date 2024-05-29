@@ -1,6 +1,6 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-           xmlns:per="https://xml-project.orender.com/personal"
-           targetNamespace="https://xml-project.orender.com/personal"
+           xmlns:per="https://xml-project.onrender.com/personal"
+           targetNamespace="https://xml-project.onrender.com/personal"
            elementFormDefault="qualified">
     <xs:element name="PersonalInformation">
         <xs:complexType>
